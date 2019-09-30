@@ -1,0 +1,19 @@
+.page-header
+{
+    background-color: #D3212D;
+    color: #FEFFFF;
+}
+.container,.container-fluid,.div,.row,.col
+{
+    margin:0;
+    padding:0;
+}
+.feed-container
+{
+    margin:5px 20px;
+}
+.document-display
+{
+    border-radius:5px;
+}
+
